@@ -6,5 +6,7 @@ This web application has the ability to utilize CRUD operations (Create, Read, U
 
 ![Screenshot](https://user-images.githubusercontent.com/79638487/159116641-55fc77e8-0b90-4088-a7a4-2d823cf1a5a3.png)
 
+![Screenshot](https://user-images.githubusercontent.com/79638487/159117388-91022ccd-85c2-4c02-93ca-9e771124c46c.png)
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
